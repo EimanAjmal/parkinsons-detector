@@ -1,0 +1,90 @@
+[
+  {
+    "feature": "PPE",
+    "importance": 0.37036407678845235
+  },
+  {
+    "feature": "MDVP:Fo(Hz)",
+    "importance": 0.16823900216083035
+  },
+  {
+    "feature": "MDVP:Fhi(Hz)",
+    "importance": 0.11836858527499303
+  },
+  {
+    "feature": "RPDE",
+    "importance": 0.08912869713918753
+  },
+  {
+    "feature": "spread1",
+    "importance": 0.06703126959654664
+  },
+  {
+    "feature": "spread2",
+    "importance": 0.04680543718982292
+  },
+  {
+    "feature": "D2",
+    "importance": 0.03178964525341374
+  },
+  {
+    "feature": "MDVP:Shimmer(dB)",
+    "importance": 0.03092564966779914
+  },
+  {
+    "feature": "Shimmer:APQ5",
+    "importance": 0.022935719007507422
+  },
+  {
+    "feature": "DFA",
+    "importance": 0.014169057197342074
+  },
+  {
+    "feature": "HNR",
+    "importance": 0.01020865615053444
+  },
+  {
+    "feature": "Shimmer:APQ3",
+    "importance": 0.008108020186606661
+  },
+  {
+    "feature": "NHR",
+    "importance": 0.005214173168817997
+  },
+  {
+    "feature": "MDVP:Flo(Hz)",
+    "importance": 0.0048059938328326515
+  },
+  {
+    "feature": "MDVP:Jitter(%)",
+    "importance": 0.003900708437310061
+  },
+  {
+    "feature": "Shimmer:DDA",
+    "importance": 0.0030082908432472097
+  },
+  {
+    "feature": "Jitter:DDP",
+    "importance": 0.0018240533812488508
+  },
+  {
+    "feature": "MDVP:PPQ",
+    "importance": 0.001138808709727073
+  },
+  {
+    "feature": "MDVP:APQ",
+    "importance": 0.0010459127818421522
+  },
+  {
+    "feature": "MDVP:Jitter(Abs)",
+    "importance": 0.000496681810331384
+  },
+  {
+    "feature": "MDVP:RAP",
+    "importance": 0.0004773511189207556
+  },
+  {
+    "feature": "MDVP:Shimmer",
+    "importance": 1.4210302685597525e-05
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "model": "SVM (RBF kernel) + HOG features",
+  "image_size": [
+    128,
+    128
+  ],
+  "accuracy": 0.8333333333333334,
+  "precision": 0.8125,
+  "recall": 0.8666666666666667,
+  "f1": 0.8387096774193549,
+  "roc_auc": 0.8666666666666667,
+  "confusion_matrix": [
+    [
+      12,
+      3
+    ],
+    [
+      2,
+      13
+    ]
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "method": "Leave-One-Patient-Out CV",
+  "results": {
+    "Logistic Regression": {
+      "accuracy": 0.6974358974358974,
+      "precision": 0.8235294117647058,
+      "recall": 0.7619047619047619,
+      "f1": 0.7915194346289752,
+      "roc_auc": 0.7237811791383221,
+      "confusion_matrix": [
+        [
+          24,
+          24
+        ],
+        [
+          35,
+          112
+        ]
+      ]
+    },
+    "SVM (RBF kernel)": {
+      "accuracy": 0.6615384615384615,
+      "precision": 0.8091603053435115,
+      "recall": 0.7210884353741497,
+      "f1": 0.762589928057554,
+      "roc_auc": 0.6472505668934241,
+      "confusion_matrix": [
+        [
+          23,
+          25
+        ],
+        [
+          41,
+          106
+        ]
+      ]
+    },
+    "Random Forest": {
+      "accuracy": 0.8,
+      "precision": 0.8176470588235294,
+      "recall": 0.9455782312925171,
+      "f1": 0.8769716088328076,
+      "roc_auc": 0.7445436507936508,
+      "confusion_matrix": [
+        [
+          17,
+          31
+        ],
+        [
+          8,
+          139
+        ]
+      ]
+    },
+    "Gradient Boosting": {
+      "accuracy": 0.8102564102564103,
+      "precision": 0.8273809523809523,
+      "recall": 0.9455782312925171,
+      "f1": 0.8825396825396825,
+      "roc_auc": 0.6452664399092971,
+      "confusion_matrix": [
+        [
+          19,
+          29
+        ],
+        [
+          8,
+          139
+        ]
+      ]
+    }
+  },
+  "best_model": "Gradient Boosting"
+}
